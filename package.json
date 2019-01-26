@@ -1,5 +1,8 @@
 {
   "name": "measuremental",
+  "repository": "https://github.com/ccbpeden/measuremental",
+  "version": "0.0.1",
+  "license": "UNLICENSED",
   "scripts": {
     "start": "dotenv -- nodemon -e ts,graphql -x ts-node src/index.ts",
     "debug": "dotenv -- nodemon -e ts,graphql -x ts-node --inspect src/index.ts",

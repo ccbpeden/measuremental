@@ -20,6 +20,7 @@
     "@types/node": "10.12.18",
     "dotenv-cli": "1.4.0",
     "graphql": "^0.13.0",
+    "graphql-request": "^1.8.2",
     "jest": "^23.0.0",
     "jest-cli": "^24.0.0",
     "nodemon": "1.18.9",

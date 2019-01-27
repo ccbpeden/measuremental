@@ -1,4 +1,6 @@
+const { defaults: tsjPreset } = require('ts-jest/presets');
+
 module.exports = {
-  preset: 'ts-jest/presets/js-with-ts',
+  preset: 'ts-jest',
   testEnvironment: 'node',
 };
